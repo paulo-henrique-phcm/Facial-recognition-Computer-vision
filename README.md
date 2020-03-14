@@ -5,7 +5,7 @@ My final Roc curve of distance cossin vs euclidean with vggface2:<br>
 <img src="face2 coseno vs euclid roc.png" alt="drawing" width="600"/>
 
 _____________________________________________________________________
-My first test histogram with vggface and vgg16 using few images:<br>
+My first test histogram with vggface and vgg16:<br>
 <img src="vgg16.png" alt="drawing" width="400"/>
 
 
